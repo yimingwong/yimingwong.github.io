@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Yiming Wong]]></title>
+  <link href="yimingwong.github.io/atom.xml" rel="self"/>
+  <link href="yimingwong.github.io/"/>
+  <updated>2021-12-17T02:39:17+08:00</updated>
+  <id>yimingwong.github.io/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="http://www.mweb.im/">MWeb</generator>
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="yimingwong.github.io/16396760744244.html"/>
+    <updated>2021-12-17T01:34:34+08:00</updated>
+    <id>yimingwong.github.io/16396760744244.html</id>
+    <content type="html"><![CDATA[
+<p>我大底是病了，横竖睡不着。</p>
+<p>坐起身来点起一根烟，听见院外的狗叫了起来，我也跟着叫了起来。</p>
+<p>我决定写一个博客。</p>
+
+]]></content>
+  </entry>
+  
+</feed>
